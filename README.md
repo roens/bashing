@@ -1,0 +1,4 @@
+bashing
+=======
+
+Bash scripts…
